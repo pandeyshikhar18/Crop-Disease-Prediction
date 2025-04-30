@@ -1,7 +1,17 @@
-streamlit
-tensorflow==2.18.0
+# Core
+streamlit==1.45.0
+
+# ML & model loading
+tensorflow==2.13.0
+h5py
+
+# Numeric & data
 numpy==1.23.5
-pandas
+pandas==2.2.3
+
+# Image processing
 opencv-python
 Pillow
+
+# (Optional) if you use any scikit-learn utilities:
 scikit-learn
