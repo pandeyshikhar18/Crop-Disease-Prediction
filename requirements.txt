@@ -2,7 +2,7 @@
 streamlit==1.45.0
 
 # ML & model loading
-tensorflow==2.13.0
+tensorflow==2.16.1
 h5py
 
 # Numeric & data
